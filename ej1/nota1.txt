@@ -1,0 +1,4 @@
+Los gráficos se hicieron para
+    M=100000000000 (10^11, no 10^9) para mejor visualización,
+    X=1500000 y
+    16 hilos.

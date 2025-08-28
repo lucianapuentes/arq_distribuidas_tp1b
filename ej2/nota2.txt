@@ -1,0 +1,2 @@
+Los gráficos se hicieron para
+    16 hilos (no 32), el speedup para 32 hilos es la mitad que para 16 hilos (el proceso se ejecuta en una máquina de 16).

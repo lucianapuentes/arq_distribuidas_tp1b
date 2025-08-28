@@ -1,0 +1,3 @@
+Los gráficos se hicieron para
+    N = 1000
+    16 hilos.
